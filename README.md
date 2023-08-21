@@ -22,3 +22,7 @@ The dataset used is Fashion Product Images Dataset created by PARAM AGGARWAL. Th
 - <b>Increased Fashion Exploration/<b>: Users can discover new fashion items or outfits that they may not have come across otherwise, expanding their fashion choices and preferences.
 - <b>Personalized Recommendations</b>: The model learns from the user's input images, leading to more tailored recommendations over time.
 - <b>Integration Possibilities</b>: The recommended fashion items can be linked to e-commerce platforms, allowing users to easily purchase their desired items.
+
+## <b>Output Visulization :</b>
+![reference](reference.png)
+![reference_2](reference_2.png)
